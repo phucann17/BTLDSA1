@@ -191,7 +191,7 @@ void swap(List<double> *list1, List<double> *list2) {
                 swapped = true;
             }
         }
-        if (!swapped) break; // Nếu không có sự hoán đổi, dãy đã sắp xếp
+        if (!swapped) break; 
     }
 }
 //////////////////////////////////////////////////////////////////////////////////////////////
